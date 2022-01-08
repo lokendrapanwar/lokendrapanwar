@@ -4,8 +4,7 @@
 
 <!--
 **lokendrapanwar/lokendrapanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on webimpact
 - 🌱 I’m currently learning vuejs
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lokendrapanwar27@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love science and tech fiction and I use tabs over spaces 😄
--->
+
