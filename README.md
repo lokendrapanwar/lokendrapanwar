@@ -8,7 +8,7 @@
 -  I’m a full stack developer. I have 6+ years of experience.
 -  I’m expertise in laravel, angular and vuejs.
 - 🔭 I’m currently working on webimpact.
-- 🌱 I’m currently learning vuejs.
+- 🌱 I’m currently learning complex query in sql.
 - 👯 I’m looking to collaborate on ...add me later
 - 🤔 I’m looking for help with code expert.
 - 💬 Ask me about web developement, php, mysql, angular, vue, bootstarp.
