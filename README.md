@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on webimpact.
 - 🌱 I’m currently learning complex query in sql.
 - 👯 I’m looking to collaborate on ...add me later
-- 🤔 I’m looking for help with code expert.
+- 🤔 I’m looking for good opportunity.
 - 💬 Ask me about web developement, php, mysql, angular, vue, bootstarp.
 - 📫 How to reach me: lokendrapanwar27@gmail.com
 - 😄 Pronouns: ...
